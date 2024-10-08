@@ -1,5 +1,5 @@
 {
-  "game": "Catan",
+  "game": "TicTacToe",
   "nPlayers": 2,
   "mode": "exhaustive",
   "matchups": 10,
