@@ -848,6 +848,10 @@ public class Game {
 //        players.add(rmhcPlayer);
 
 //        MCTSParams params = new MCTSParams();
+//        params.rolloutLength = 10;
+//        params.maxTreeDepth = 5;
+//        params.budgetType = BUDGET_FM_CALLS;
+//        params.budget = 1000;
 //        players.add(new MCTSPlayer(params));
 
 //        players.add(new OSLAPlayer());
