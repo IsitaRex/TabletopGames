@@ -1,0 +1,83 @@
+Game: SushiGo, Players: 2, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Alpha calculations using Delta Ordinal
+Alpha: 10.0
+	0.764	BasicMCTS
+	0.000	Random
+	0.000	osla
+	0.236	rhea
+
+Transition matrix for alpha = 10.0
+0.764	0.000	0.000	0.236	
+0.593	0.000	0.000	0.407	
+0.500	0.000	0.000	0.500	
+0.764	0.000	0.000	0.236	
+B matrix for alpha = 10.0
+2.409	0.549	0.500	1.491	
+0.549	0.517	0.500	0.549	
+0.500	0.500	0.500	0.500	
+1.491	0.549	0.500	1.166	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		osla
+
+Alpha calculations using Win Rate
+Alpha: 10.0
+	0.764	BasicMCTS
+	0.000	Random
+	0.000	osla
+	0.236	rhea
+
+Transition matrix for alpha = 10.0
+0.764	0.000	0.000	0.236	
+0.593	0.000	0.000	0.407	
+0.500	0.000	0.000	0.500	
+0.764	0.000	0.000	0.236	
+B matrix for alpha = 10.0
+2.409	0.549	0.500	1.491	
+0.549	0.517	0.500	0.549	
+0.500	0.500	0.500	0.500	
+1.491	0.549	0.500	1.166	
+The following agents cluster together, and may be considered equivalent: 
+	Cluster for Random
+		Random
+		osla
+
+BasicMCTS got 41.50 points. BasicMCTS won 41.0% of the 100 games of the tournament. BasicMCTS won 82.0% of the 50 games it played during the tournament.
+BasicMCTS won 94.7% of the 19 games against Random.
+BasicMCTS won 100.0% of the 14 games against osla.
+BasicMCTS won 52.9% of the 17 games against rhea.
+
+Random got 12.00 points. Random won 12.0% of the 100 games of the tournament. Random won 24.0% of the 50 games it played during the tournament.
+Random won 5.3% of the 19 games against BasicMCTS.
+Random won 58.8% of the 17 games against osla.
+Random won 7.1% of the 14 games against rhea.
+
+osla got 7.00 points. osla won 7.0% of the 100 games of the tournament. osla won 14.0% of the 50 games it played during the tournament.
+osla won 0.0% of the 14 games against BasicMCTS.
+osla won 41.2% of the 17 games against Random.
+osla won 0.0% of the 19 games against rhea.
+
+rhea got 39.50 points. rhea won 39.0% of the 100 games of the tournament. rhea won 78.0% of the 50 games it played during the tournament.
+rhea won 41.2% of the 17 games against BasicMCTS.
+rhea won 92.9% of the 14 games against Random.
+rhea won 100.0% of the 19 games against osla.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+BasicMCTS: Win rate 0.83 +/- 0.052	Mean Ordinal 1.16 +/- 0.05
+rhea: Win rate 0.79 +/- 0.057	Mean Ordinal 1.20 +/- 0.06
+Random: Win rate 0.24 +/- 0.060	Mean Ordinal 1.76 +/- 0.06
+osla: Win rate 0.14 +/- 0.049	Mean Ordinal 1.86 +/- 0.05
+
+Alpha-rank by Win Rate
+	BasicMCTS                     	0.76
+	rhea                          	0.24
+	Random                        	0.00
+	osla                          	0.00
+
+Alpha-rank by Ordinal Position
+	BasicMCTS                     	0.76
+	rhea                          	0.24
+	Random                        	0.00
+	osla                          	0.00
+
