@@ -1,0 +1,7 @@
+{
+  "class" : "players.rmhc.RMHCParams",
+  "horizon": 20,
+  "discountFactor": 1.0,
+  "budgetType" : "BUDGET_FM_CALLS",
+  "budget" : 1000
+}
