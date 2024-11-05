@@ -1,0 +1,407 @@
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 69.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 22.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 22.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 22.3% of the 300 games against Basic MCTS Player using SushiGoHeuristic heuristic.
+
+Basic MCTS Player using SushiGoHeuristic heuristic got 230.50 points. Basic MCTS Player using SushiGoHeuristic heuristic won 76.0% of the 300 games of the tournament. Basic MCTS Player using SushiGoHeuristic heuristic won 76.0% of the 300 games it played during the tournament.
+Basic MCTS Player using SushiGoHeuristic heuristic won 76.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using SushiGoHeuristic heuristic: Win rate 0.77 +/- 0.024	Mean Ordinal 1.22 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.23 +/- 0.024	Mean Ordinal 1.76 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 195.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 65.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 65.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 65.0% of the 300 games against Basic MCTS Player using PuddingHeuristic heuristic.
+
+Basic MCTS Player using PuddingHeuristic heuristic got 105.00 points. Basic MCTS Player using PuddingHeuristic heuristic won 35.0% of the 300 games of the tournament. Basic MCTS Player using PuddingHeuristic heuristic won 35.0% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingHeuristic heuristic won 35.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.65 +/- 0.028	Mean Ordinal 1.35 +/- 0.03
+Basic MCTS Player using PuddingHeuristic heuristic: Win rate 0.35 +/- 0.028	Mean Ordinal 1.65 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 71.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 22.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 22.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 22.7% of the 300 games against Basic MCTS Player using PuddingMaxHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxHeuristic heuristic got 228.50 points. Basic MCTS Player using PuddingMaxHeuristic heuristic won 75.0% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxHeuristic heuristic won 75.0% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxHeuristic heuristic won 75.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxHeuristic heuristic: Win rate 0.76 +/- 0.024	Mean Ordinal 1.23 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.24 +/- 0.024	Mean Ordinal 1.75 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 32.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 9.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 9.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 9.7% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic got 268.00 points. Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic won 88.3% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic won 88.3% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic won 88.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic heuristic: Win rate 0.89 +/- 0.017	Mean Ordinal 1.10 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.11 +/- 0.017	Mean Ordinal 1.88 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 16.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 5.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 5.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 5.0% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 284.00 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.3% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.3% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.95 +/- 0.013	Mean Ordinal 1.05 +/- 0.01
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.05 +/- 0.013	Mean Ordinal 1.94 +/- 0.01
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 101.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 33.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 33.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 33.3% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic got 198.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 65.7% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 65.7% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 65.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic: Win rate 0.66 +/- 0.027	Mean Ordinal 1.33 +/- 0.03
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.34 +/- 0.027	Mean Ordinal 1.66 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 19.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 6.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 6.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 6.0% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic got 280.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 93.0% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 93.0% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 93.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic: Win rate 0.94 +/- 0.014	Mean Ordinal 1.06 +/- 0.01
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.07 +/- 0.014	Mean Ordinal 1.93 +/- 0.01
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 36.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic got 263.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 86.7% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 86.7% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 86.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic: Win rate 0.88 +/- 0.018	Mean Ordinal 1.11 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.12 +/- 0.018	Mean Ordinal 1.87 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 92.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 29.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 29.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 29.7% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic got 208.00 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 68.3% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 68.3% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 68.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic: Win rate 0.69 +/- 0.026	Mean Ordinal 1.30 +/- 0.03
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.31 +/- 0.026	Mean Ordinal 1.68 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 54.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 17.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 17.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 17.3% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic got 246.00 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 81.3% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 81.3% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 81.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic: Win rate 0.82 +/- 0.022	Mean Ordinal 1.17 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.18 +/- 0.022	Mean Ordinal 1.81 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 76.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 24.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 24.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 24.3% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic got 223.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.3% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.3% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic: Win rate 0.75 +/- 0.025	Mean Ordinal 1.24 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.26 +/- 0.025	Mean Ordinal 1.73 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 81.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 26.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 26.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 26.0% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic got 218.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 71.7% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 71.7% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 71.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic: Win rate 0.73 +/- 0.025	Mean Ordinal 1.26 +/- 0.03
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.27 +/- 0.025	Mean Ordinal 1.72 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 52.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 16.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 16.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 16.7% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic got 248.00 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 82.0% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 82.0% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 82.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic: Win rate 0.83 +/- 0.022	Mean Ordinal 1.17 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.17 +/- 0.022	Mean Ordinal 1.82 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 72.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 23.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 23.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 23.3% of the 300 games against Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 227.50 points. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 75.0% of the 300 games of the tournament. Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 75.0% of the 300 games it played during the tournament.
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 75.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+Basic MCTS Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.76 +/- 0.024	Mean Ordinal 1.23 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.24 +/- 0.024	Mean Ordinal 1.75 +/- 0.02
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 25.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 7.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 7.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 7.3% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 274.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 90.3% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 90.3% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 90.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.92 +/- 0.015	Mean Ordinal 1.07 +/- 0.02
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.09 +/- 0.015	Mean Ordinal 1.90 +/- 0.02
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 12.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+Basic MCTS Player using ScoreHeuristic heuristic got 18.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 17.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 17.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 17.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+Basic MCTS Player using ScoreHeuristic heuristic won 17.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 69.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 68.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 68.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 68.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 68.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.69 +/- 0.046	Mean Ordinal 1.46 +/- 0.08
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.19 +/- 0.038	Mean Ordinal 2.19 +/- 0.07
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.13 +/- 0.032	Mean Ordinal 2.31 +/- 0.07
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 10.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 10.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 10.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 10.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 10.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 74.50 points. h3 won 74.0% of the 100 games of the tournament. h3 won 74.0% of the 100 games it played during the tournament.
+h3 won 74.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 74.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 15.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 15.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 15.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 15.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 15.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+h3: Win rate 0.75 +/- 0.043	Mean Ordinal 1.29 +/- 0.05
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.16 +/- 0.036	Mean Ordinal 2.09 +/- 0.06
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.10 +/- 0.030	Mean Ordinal 2.59 +/- 0.07
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 13.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 24.00 points. h3 won 24.0% of the 100 games of the tournament. h3 won 24.0% of the 100 games it played during the tournament.
+h3 won 24.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 24.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 63.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 63.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 63.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 63.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 63.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.63 +/- 0.048	Mean Ordinal 1.46 +/- 0.07
+h3: Win rate 0.24 +/- 0.043	Mean Ordinal 2.11 +/- 0.08
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.13 +/- 0.034	Mean Ordinal 2.41 +/- 0.07
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 15.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic.
+
+h3 got 34.00 points. h3 won 34.0% of the 100 games of the tournament. h3 won 34.0% of the 100 games it played during the tournament.
+h3 won 34.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 34.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic got 51.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 51.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 51.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 51.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic won 51.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxWeightedHeuristic heuristic: Win rate 0.51 +/- 0.050	Mean Ordinal 1.76 +/- 0.08
+h3: Win rate 0.34 +/- 0.047	Mean Ordinal 1.87 +/- 0.07
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.15 +/- 0.036	Mean Ordinal 2.37 +/- 0.07
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 18.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 18.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 18.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 18.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 18.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+h3 got 33.50 points. h3 won 33.0% of the 100 games of the tournament. h3 won 33.0% of the 100 games it played during the tournament.
+h3 won 33.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 33.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic got 48.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 48.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 48.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 48.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 48.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic: Win rate 0.49 +/- 0.050	Mean Ordinal 1.60 +/- 0.06
+h3: Win rate 0.34 +/- 0.047	Mean Ordinal 1.97 +/- 0.08
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.18 +/- 0.038	Mean Ordinal 2.40 +/- 0.08
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 11.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 11.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 25.00 points. h3 won 25.0% of the 100 games of the tournament. h3 won 25.0% of the 100 games it played during the tournament.
+h3 won 25.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 25.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 64.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 64.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 64.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 64.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 64.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.64 +/- 0.048	Mean Ordinal 1.45 +/- 0.07
+h3: Win rate 0.25 +/- 0.043	Mean Ordinal 2.10 +/- 0.08
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.11 +/- 0.031	Mean Ordinal 2.44 +/- 0.07
+
+Game: SushiGo, Players: 3, Mode: RANDOM, TotalGames: 100, GamesPerMatchup: 1
+Basic MCTS Player using ScoreHeuristic heuristic got 15.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 18.50 points. h3 won 18.0% of the 100 games of the tournament. h3 won 18.0% of the 100 games it played during the tournament.
+h3 won 18.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 18.0% of the 100 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 66.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 65.0% of the 100 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 65.0% of the 100 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 65.0% of the 100 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 65.0% of the 100 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.66 +/- 0.047	Mean Ordinal 1.42 +/- 0.07
+h3: Win rate 0.19 +/- 0.039	Mean Ordinal 2.19 +/- 0.07
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.16 +/- 0.036	Mean Ordinal 2.33 +/- 0.07
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 15.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 285.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.0% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.0% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 94.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.95 +/- 0.012	Mean Ordinal 1.04 +/- 0.01
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.05 +/- 0.012	Mean Ordinal 1.94 +/- 0.01
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 93.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 30.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 30.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 30.3% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic got 206.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 68.0% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 68.0% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic won 68.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasSushiGoHeuristic heuristic: Win rate 0.69 +/- 0.026	Mean Ordinal 1.30 +/- 0.03
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.31 +/- 0.026	Mean Ordinal 1.68 +/- 0.03
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 13.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 4.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic got 287.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 95.3% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 95.3% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 95.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic: Win rate 0.96 +/- 0.012	Mean Ordinal 1.04 +/- 0.01
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.04 +/- 0.012	Mean Ordinal 1.95 +/- 0.01
+
+Game: SushiGo, Players: 2, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 150
+Basic MCTS Player using ScoreHeuristic heuristic got 80.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 26.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 26.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 26.7% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic got 219.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.0% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.0% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic won 73.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingMaxHeuristic heuristic: Win rate 0.73 +/- 0.026	Mean Ordinal 1.27 +/- 0.03
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.27 +/- 0.026	Mean Ordinal 1.73 +/- 0.03
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 50
+Basic MCTS Player using ScoreHeuristic heuristic got 39.50 points. Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 300 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 13.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 83.00 points. h3 won 27.0% of the 300 games of the tournament. h3 won 27.0% of the 300 games it played during the tournament.
+h3 won 27.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 27.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 177.50 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 58.7% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 58.7% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 58.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 58.7% of the 300 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.59 +/- 0.028	Mean Ordinal 1.51 +/- 0.04
+h3: Win rate 0.28 +/- 0.026	Mean Ordinal 2.07 +/- 0.05
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.13 +/- 0.019	Mean Ordinal 2.40 +/- 0.04
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 50
+Basic MCTS Player using ScoreHeuristic heuristic got 47.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 15.3% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 15.3% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.3% of the 300 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 15.3% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+h3 got 82.00 points. h3 won 27.0% of the 300 games of the tournament. h3 won 27.0% of the 300 games it played during the tournament.
+h3 won 27.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 27.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic got 171.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 56.7% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 56.7% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 56.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic won 56.7% of the 300 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasPuddingHeuristic heuristic: Win rate 0.57 +/- 0.028	Mean Ordinal 1.52 +/- 0.04
+h3: Win rate 0.27 +/- 0.026	Mean Ordinal 2.04 +/- 0.04
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.16 +/- 0.021	Mean Ordinal 2.41 +/- 0.04
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 50
+Basic MCTS Player using ScoreHeuristic heuristic got 45.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 14.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 14.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 14.7% of the 300 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 14.7% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic heuristic.
+
+h3 got 93.00 points. h3 won 30.7% of the 300 games of the tournament. h3 won 30.7% of the 300 games it played during the tournament.
+h3 won 30.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 30.7% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic heuristic got 162.00 points. MCTRex Player using PuddingMaxWeightedHeuristic heuristic won 53.7% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic heuristic won 53.7% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic heuristic won 53.7% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic heuristic won 53.7% of the 300 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic heuristic: Win rate 0.54 +/- 0.029	Mean Ordinal 1.62 +/- 0.04
+h3: Win rate 0.31 +/- 0.027	Mean Ordinal 1.96 +/- 0.04
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.15 +/- 0.020	Mean Ordinal 2.41 +/- 0.04
+
+Game: SushiGo, Players: 3, Mode: EXHAUSTIVE, TotalGames: 300, GamesPerMatchup: 50
+Basic MCTS Player using ScoreHeuristic heuristic got 39.00 points. Basic MCTS Player using ScoreHeuristic heuristic won 12.7% of the 300 games of the tournament. Basic MCTS Player using ScoreHeuristic heuristic won 12.7% of the 300 games it played during the tournament.
+Basic MCTS Player using ScoreHeuristic heuristic won 12.7% of the 300 games against h3.
+Basic MCTS Player using ScoreHeuristic heuristic won 12.7% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+h3 got 82.00 points. h3 won 27.0% of the 300 games of the tournament. h3 won 27.0% of the 300 games it played during the tournament.
+h3 won 27.0% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+h3 won 27.0% of the 300 games against MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic.
+
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic got 179.00 points. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 59.3% of the 300 games of the tournament. MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 59.3% of the 300 games it played during the tournament.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 59.3% of the 300 games against Basic MCTS Player using ScoreHeuristic heuristic.
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic won 59.3% of the 300 games against h3.
+
+---- Ranking ---- (+/- are standard errors on the mean calculated using a Normal approximation) 
+MCTRex Player using PuddingMaxWeightedHeuristic with progressive biasScoreHeuristic heuristic: Win rate 0.60 +/- 0.028	Mean Ordinal 1.49 +/- 0.04
+h3: Win rate 0.27 +/- 0.026	Mean Ordinal 2.05 +/- 0.04
+Basic MCTS Player using ScoreHeuristic heuristic: Win rate 0.13 +/- 0.019	Mean Ordinal 2.45 +/- 0.04
+

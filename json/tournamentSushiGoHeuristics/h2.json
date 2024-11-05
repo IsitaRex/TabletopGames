@@ -1,0 +1,15 @@
+{
+  "class" : "players.MCTRex.MCTRexParams",
+  "K" : 1.0,
+  "rolloutLength" : 10,
+  "maxTreeDepth" : 30,
+  "heuristic" : {
+    "class" : "players.heuristics.PuddingMaxWeightedHeuristic"
+  },
+  "progressiveBias" : true,
+  "progressiveBiasHeuristic" : {
+    "class" : "players.heuristics.ScoreHeuristic"
+  },
+  "budgetType" : "BUDGET_TIME",
+  "budget" : 40
+}
